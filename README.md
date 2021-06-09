@@ -1,0 +1,1 @@
+this repo contains files of the project 0x00-shell_basics.
